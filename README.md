@@ -1,4 +1,4 @@
-# 👨‍🌾 Agri India - One stop application for Indian Farmers
+# 👨‍🌾 AgriWorld - App For Farmers with Equipment Services,Solutions and Weather Insights.
 
 ✒️ This is an Android Application designed for our Indian farmers. 
 
